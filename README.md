@@ -11,6 +11,7 @@ GigaFoto is an AI-powered image generation application that leverages React.js, 
 ## Screenshots
    ![Screenshot from 2023-12-09 01-45-29](https://github.com/LinuxKunaL/Free-AI-Image-Generation/assets/75113218/d08c18ce-a2b9-40b9-b95e-b392e0d4e6c2)
    ![Screenshot from 2023-12-09 01-45-41](https://github.com/LinuxKunaL/Free-AI-Image-Generation/assets/75113218/7dc6b27b-c1b0-4d35-aef4-9a683cb73c53)
+   ![image](https://github.com/LinuxKunaL/Free-AI-Image-Generation/assets/75113218/3aed67a9-bf38-40bb-99f1-e0c39dfe9c25)
 
 ## Getting Started
 
