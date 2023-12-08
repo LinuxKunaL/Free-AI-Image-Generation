@@ -62,4 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to lexica.art for providing the real images used in GigaFoto.
 - Hat tip to the open-source community for the amazing tools and libraries used in this project.
 
-Remember to replace placeholders such as `your-username` and customize the content according to your project structure and details. Add additional sections or details based on your project's specific requirements.
