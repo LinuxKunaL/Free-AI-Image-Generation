@@ -8,6 +8,10 @@ GigaFoto is an AI-powered image generation application that leverages React.js, 
 - **Technologies Used:** The project is built using React.js for the frontend, Node.js for the backend, and Tailwind CSS for styling.
 - **Image Scraping Algorithm:** The application employs a custom scraping algorithm to fetch real images from lexica.art, ensuring a rich and dynamic image database.
 
+## Screenshots
+   ![Screenshot from 2023-12-09 01-45-29](https://github.com/LinuxKunaL/Free-AI-Image-Generation/assets/75113218/d08c18ce-a2b9-40b9-b95e-b392e0d4e6c2)
+   ![Screenshot from 2023-12-09 01-45-41](https://github.com/LinuxKunaL/Free-AI-Image-Generation/assets/75113218/7dc6b27b-c1b0-4d35-aef4-9a683cb73c53)
+
 ## Getting Started
 
 ### Prerequisites
