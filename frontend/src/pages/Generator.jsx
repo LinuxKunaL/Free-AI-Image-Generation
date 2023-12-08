@@ -32,7 +32,7 @@ function Generator() {
     event.preventDefault();
     setIsLoading(true);
     const response = await axios.post(
-      "http://localhost:1000/generateImage",
+      "https://apiimage.onrender.com/generateImage",
       ParamSearch
     );
     if (response.data) {
