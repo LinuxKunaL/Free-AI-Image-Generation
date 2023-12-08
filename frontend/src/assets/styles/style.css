@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Outfit', sans-serif !important;
+    /* font-family: 'Poppins', sans-serif; */
+    -webkit-tap-highlight-color: transparent;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#root {
+    min-height: 100Vh;
+    min-width: 100vw;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
